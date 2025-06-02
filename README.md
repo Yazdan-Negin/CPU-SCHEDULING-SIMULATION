@@ -30,7 +30,7 @@ The simulator calculates key performance metrics for each algorithm including tu
 
 
 # Ouput Example:
-```python
+```terminal
 FCFS Results:
 Average Turnaround Time: 12.25
 Average Waiting Time: 6.75
